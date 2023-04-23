@@ -645,6 +645,16 @@
 					"File": "Mods/AdventurePartnerMinoni/Images/earR_DroopFurther.png",
 					"setXalign": "0.0",
 					"setYalign": "0.0"
+				},
+        { "Name": "Flip",
+					"File": "Mods/AdventurePartnerMinoni/Images/earL_Flip.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+        { "Name": "DroopFlip",
+					"File": "Mods/AdventurePartnerMinoni/Images/earL_DroopFurtherFlip.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
 				}
 			]
 		},
@@ -727,6 +737,16 @@
 				},
         { "Name": "Droop",
 					"File": "Mods/AdventurePartnerMinoni/Images/earL_Droop.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+        { "Name": "Flip",
+					"File": "Mods/AdventurePartnerMinoni/Images/earR_Flip.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+        { "Name": "DroopFlip",
+					"File": "Mods/AdventurePartnerMinoni/Images/earR_DroopFlip.png",
 					"setXalign": "0.0",
 					"setYalign": "0.0"
 				}

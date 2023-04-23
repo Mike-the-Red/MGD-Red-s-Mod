@@ -1,0 +1,29 @@
+{
+	"name": "Kyra's Defeated",
+  "Addition": "Yes",
+  "Speakers": [],
+	"EventText": [
+    { "NameOfScene": "Something else...",
+      "theScene": [
+        "MenuAddition",
+          "RequiresVar", "canPartner",
+          "RequiresPartner", "None",
+            "Would you travel with me?", "OverrideOption", "'See you later.'",
+        "EndLoop"
+      ]
+    },
+    { "NameOfScene": "Would you travel with me?",
+      "theScene": [
+        "DisplayCharacters", "1", "EndLoop",
+				"ChangeImageLayer", "Expression", "1", "Surprised",
+        "PlayerSpeaks", "Would you like to travel with me?",
+        "Speaks", "I... Can I do that?.",
+        "PlayerSpeaks", "Sure. It doesn't look like you're fading, yet, so I think so.",
+        "ChangeImageLayer", "Expression", "1", "Bashful",
+        "Speaks", "I... yes.",
+        "SetPartner", "Kyra"
+      ]
+    }
+  ]
+}
+

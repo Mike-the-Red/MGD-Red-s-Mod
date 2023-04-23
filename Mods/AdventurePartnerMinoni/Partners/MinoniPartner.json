@@ -20,11 +20,15 @@
   "casualPoses": [
     [
       ["Smile","Expression"],
+      ["Flip","EarR"],
+      ["Flip","EarL"],
       ["Base","ArmL"],
       ["BookOnHip","BookOnHip"]
     ],
     [
       ["Smile","Expression"],
+      ["Flip","EarR"],
+      ["Flip","EarL"],
       ["BaseBook","ArmL"],
       ["","BookOnHip"]
     ]
@@ -32,6 +36,8 @@
   "combatPoses": [
     [
       ["Angry","Expression"],
+      ["Flip","EarR"],
+      ["Flip","EarL"],
       ["Wrestle","ArmR"],
       ["Wrestle","ArmL"],
       ["BookOnHip","BookOnHip"]

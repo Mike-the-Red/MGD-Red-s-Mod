@@ -1,0 +1,20 @@
+{
+  "IDname": ["Kyra", "Kyra_Level_28"],
+  "flipImage": "True",
+  "cropImage": ["107","-33","379","658"],
+  "positionImage": ["55","84"],
+  "tooltipDesc": "A well toned lizard woman with tanned skin, yellow scales, blonde hair in a pony tail, gleaming golden eyes, a powerful tail with a deceptively soft underside, and sharp claws.\n\nShe wears a minimum of red clothing under sparse armor plates and an assortment of golden jewelry.",
+  "advancementPerk": [],
+  "pesterScenes": [
+    { "NameOfScene": "Kyra Pestered",
+      "move": "",
+      "stance": "",
+      "includes": ["Kyra"],
+      "picture": "",
+      "theScene": [
+        "Log", "Scene 'Kyra Pestered' begun.",
+        "CallLabel", "KyraPester"
+      ]
+    }
+  ]
+}

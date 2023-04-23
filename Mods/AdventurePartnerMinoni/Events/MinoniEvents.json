@@ -17,38 +17,24 @@
     }
   ],
 	"EventText": [
-    { "NameOfScene": "Red Entrance",
-      "theScene": [
-        "MenuAddition",
-          "Minoni Considers Minotaurs", "OverrideOption", "Go back to the main hall.",
-          "Have you ever been afraid?", "OverrideOption", "Go back to the main hall.",
-        "EndLoop"
-      ]
-    },
-    { "NameOfScene": "Red Entrance 2",
-      "theScene": [
-        "MenuAddition",
-          "Minoni Considers Minotaurs", "OverrideOption", "Go back to the main hall.",
-          "Have you ever been afraid?", "OverrideOption", "Go back to the main hall.",
-        "EndLoop"
-      ]
-    },
     { "NameOfScene": "RedSideDone",
       "theScene": [
         "MenuAddition",
-          "RequiresChoiceFromEvent", "MinotaurPowerPuzzles", "7", "Pulled Lever",
-            "RequiresVarValue", "minoniPartnerChain", "0",
+          "RequiresVarValue", "minoniPartnerChain", "0",
+            "RequiresChoice", "2", "talkedPostLever",
             "RequiresVar", "canPartner",
+            "RequiresPartner", "None",
             "Minoni and the Map",        "OverrideOption", "Go back to the main hall.",
           "RequiresVarValue", "minoniPartnerChain", "1",
             "Minoni Considers Minotaurs", "OverrideOption", "Go back to the main hall.",
           "RequiresVarValue", "minoniPartnerChain", "2",
+            "RequiresChoice", "6", "Lovers",
             "RequiresChoiceFromEvent", "Minoni Considers Minotaurs", "1", "MinoniCulture",
             "Have you ever been afraid?", "OverrideOption", "Go back to the main hall.",
           "RequiresVar", "canPartner",
+            "RequiresPartner", "None",
             "RequiresVar", "canPartnerMinoni",
             "Would you travel with me?",
-          "Go back to the main hall.",
         "EndLoop"
       ]
     },
