@@ -1,0 +1,43 @@
+{
+  "IDname": ["Kyra", "Kyra_Level_28"],
+  "flipImage": "True",
+  "cropImage": ["107","-33","379","658"],
+  "positionImage": ["55","84"],
+  "tooltipDesc": "A well toned lizard woman with tanned skin, yellow scales, blonde hair in a pony tail, gleaming golden eyes, a powerful tail with a deceptively soft underside, and sharp claws.\n\nShe wears a minimum of red clothing under sparse armor plates and an assortment of golden jewelry.",
+  "advancementPerk": [],
+  "pesterScenes": [
+    { "NameOfScene": "Kyra Pestered",
+      "move": "",
+      "stance": "",
+      "includes": ["Kyra"],
+      "picture": "",
+      "theScene": [
+        "ChangeImageLayer", "Expression", "1", "Submissive",
+          "With Kyra defeated and your shaft still firmly lodged inside her tight pussy, you find yourself pinning her down and continuing to fuck her.",
+        "ChangeImageLayer", "Expression", "1", "Lewd",
+          "Each time you thrust into her deepest parts, she lets out a joyful moan, and soon she lovingly wraps her arms around your neck to pull you into a deep, romantic kiss.",
+        "ChangeImageLayer", "Expression", "1", "BaseBlush",
+          "Her luminous golden eyes lovingly gaze into yours as she moans into your mouth while your tongues intertwine.",
+          "The intimate lovemaking goes on until you start to feel an undeniable primal need build in your loins, causing you to start thrusting harder and faster into Kyra's twitching pussy.",
+        "ChangeImageLayer", "Expression", "1", "Submissive",
+          "Your sudden increase in tempo causes Kyra's arms to go slack, falling limply to her sides as she breaks off the kiss with a low moan, gasping almost incoherently between your feverish thrusts.",
+        "ChangeImageLayer", "Expression", "1", "Lewd",
+        "Speaks",
+          "My soulmate!♥ Please!♥ Cum!♥",
+        "PlayerOrgasmNoSpiritLoss",
+        "ChangeImageLayer", "Expression", "1", "Submissive",
+          "With one last thrust into her tight pussy, you both cry out in ecstasy as you have a simultaneous orgasm.",
+          "Her body twitches in bliss as you pump load after load of cum into her.",
+        "ChangeImageLayer", "Expression", "1", "BaseBlush",
+          "When your shuddering climax finally ends, you collapse on top of Kyra, gasping for air as she lovingly nuzzles into the crook of your neck.",
+          "When you finally catch your breath, you pull away and stand up while Kyra still lays on the ground, trying to recollect herself. Despite only just cumming, you feel strangely energetic.",
+        "ChangeImageLayer", "Expression", "1", "Bashful",
+          "She bashfully looks up at you, still flushed and gasping from your intense lovemaking.",
+        "Speaks",
+          "T-This doesn't mean we're s-soulmates! R-Really...",
+        "ChangeImageLayer", "Expression", "1", "Submissive",
+          "She looks away from you while biting her lip a little."
+      ]
+    }
+  ]
+}

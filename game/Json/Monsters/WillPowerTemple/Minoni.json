@@ -1,0 +1,950 @@
+{
+  "name": "Minoni",
+	"IDname": "Minoni",
+	"species": "Beast",
+	"gender": "female",
+	"description": "A tall, muscular woman with finely tanned skin and a pleasantly toned stomach.\n\nShort and wild deep red hair adorns the top of her hair while two curved bull's horns sprout from the sides just above her ears, and said horns are covered in numerous talismans with characters from a language you don't recognize written all over them.\n\nHer ears are long and pointed, ending in tufts of soft looking fluff, and her left ear is pierced with a moderately large black hoop. Her eyes are a striking dark red, and her expression is rather bored.\n\nShe's wearing a short, surprisingly fancily cut red and gold kimono that accents her large figure while leaving her toned arms completely bare. Her breasts are loosely covered by her kimono, easily showing off her substantial DD size, but when compared with the rest of her body they seem rather normal.\n\nStarting just below her sturdy looking hips, her skin is covered in down brown fur that ends just before her imposing hooves, and a long, whip-like tail that ends in a light red fluffy tuft of hair sways from her toned rear. The occasional scar on her body and face accent her imposing figure, and a gourd that presumably contains alcohol is tied to her waist, quietly making sloshing noises whenever she moves.",
+	"encyclopedia": "",
+	"tags": "none",
+	"generic": "True",
+	"requires": ["Temple Checkpoint Gem"],
+	"skillList": ["Handjob", "Minotaur Charge", "Grind", "Bounce", "Wild Ride", "Minotaur Mating Pin", "Breast Smother", "Breast Smothering", "Breast Suffocation"],
+	"perks": ["Unbounded"],
+	"stats": {
+		"lvl": "10",
+		"Exp": "100",
+		"max_hp": "350",
+		"max_ep": "10",
+		"max_sp": "1",
+		"Power": "20",
+		"Technique": "7",
+		"Intelligence": "10",
+		"Allure": "12",
+		"Willpower": "3",
+		"Luck": "4"
+	},
+	"Fetishes": [""],
+	"BodySensitivity": {
+		"Sex": "100",
+		"Ass": "100",
+		"Breasts": "150",
+		"Mouth": "100",
+		"Seduction": "50",
+		"Magic": "100",
+		"Pain": "25",
+		"Holy": "100",
+		"Unholy": "100"
+	},
+	"resistancesStatusEffects": {
+		"Stun": "50",
+		"Charm": "25",
+		"Aphrodisiac": "0",
+		"Restraints": "25",
+		"Sleep": "25",
+		"Trance": "0",
+		"Paralysis": "0"
+	},
+	"moneyDropped": "150",
+	"ItemDropList": [
+    { "name": "Bull Rune",
+			"dropChance": "25"
+		},
+		{ "name": "Indomitable Rune",
+			"dropChance": "15"
+		},
+		{ "name": "Unbound Rune",
+			"dropChance": "15"
+		},
+		{ "name": "Power Belt",
+			"dropChance": "5"
+		}
+	],
+	"lossScenes": [{ "NameOfScene": "Fucked senseless",
+		"move": "",
+		"stance": "",
+		"includes": ["Minotaur"],
+		"theScene": ["The minotaur looks down at your gasping and exhausted form with a bit of disappointment.",
+			"Speaks",
+			"Ugh... I still haven't cum yet...",
+			"A lewd grin crosses her face as she straddles your waist and leans in close to whisper into your ear.",
+			"Speaks",
+			"But don't worry, that's about to change right now.♥",
+			"She grins as she takes your still rigid shaft into her tight pussy and starts to ride it as hard as she can.",
+			"You gasp and cry out in pleasure as she relentlessly fucks your twitching form.",
+			"PlayerSpeaks",
+			"H-Hold on! Slow down a bit!",
+			"If anything, your words only goad her into fucking you harder and faster, making you gasp as your hips go pleasantly numb.",
+			"Speaks",
+			"If if Mmm,♥ slow down I won't, Ahhh...♥ cum!",
+			"As you open your mouth to respond, she buries your face between her ample breasts.",
+			"Speaks",
+			"Don't complain! Mnnn!♥ If you won, you wouldn't be in this situation!",
+			"Speaks",
+			"So now you're mine until I'm satisfied!",
+			"She continues to roughly fuck your shaft while drowning you in her soft cleavage.",
+			"Unable to take the relentless sex, you moan into her breasts as you cum inside her tight pussy.",
+			"But even as you ejaculate, she keeps riding your shaft as hard as she can.",
+			"Speaks",
+			"MNNN♥, don't you dare go soft on me now!♥",
+			"The combination of overstimulation and lack of air is making your mind go numb with pleasure.",
+			"Every slam of her hips sends waves of ecstasy through your trembling and aching body.",
+			"Your hips buck on their own as your aching balls force out another orgasm, filling the minotaur with a thick torrent of cum.",
+			"Speaks",
+			"Come on!♥ Come on!♥ You can do it! Make me cum, damn it!♥",
+			"She tightly hugs you, pushing your face deeper into her soft breasts as she rides your aching manhood.",
+			"Your dick can't take much more of this treatment, but she keeps slamming her hips into yours with loud, wet smacks.",
+			"Speaks",
+			"I'm almost there!♥ J-Just hold out Mnnn,♥ a bit more!♥ Please!",
+			"Your entire body is aching, and your vision is starting to swim from the lack of oxygen as black spots appear in the corners of your eyes.",
+			"You let out a muffled groan into her suffocating cleavage as you feel a final orgasm approaching.",
+			"With one final slam of her hips, the minotaur cries out in orgasmic pleasure and you unload one final load into her as your own body trembles and spasms in ecstasy.",
+			"Speaks",
+			"YESSSS!♥",
+			"She hugs you tightly as she cums, both of you trembling in pleasure, and you can feel yourself blacking out from the combined effects of lack of oxygen and far too much sex.",
+			"As the minotaur is gasping in delight, she looks down at you for a moment before pulling your face away from her chest, leaving you gasping for air.",
+			"Speaks",
+			"Ah, heh, sorry.",
+			"She rolls onto her back and places your exhausted body on top of hers, resting the back of your head on her chest.",
+			"Gently, she holds you close as you both bask in the afterglow of your orgasms, but you are barely coherent after the rough lovemaking.",
+			"Speaks",
+			"Good job!♥ I was worried you were going to pass out before I came.",
+			"She rests her head on a nearby rock before letting out a contented sigh.",
+			"Speaks",
+			"But maybe you should get a bit better so this doesn't happen again, huh? Unless you feel like getting fucked senseless again.♥",
+			"You give her a weak nod before the world fades to black and you pass out, resting your head on her soft chest...",
+			"ChangeSensitivity",
+			"Sex",
+			"3",
+			"ChangeSensitivity",
+			"Pain",
+			"3"
+
+		],
+		"picture": ""
+	}],
+	"combatDialogue": [{
+			"lineTrigger": "HitWith",
+			"move": "Spank",
+			"theText": ["She smirks at you, and you're pretty sure the only thing you hurt was your hand.",
+				"'Hah, I can take whatever you got.'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Whip",
+			"theText": ["'Oh, think you can tame me or something?!'",
+				"'Are you trying to piss me off?'",
+				"'I've been hit with way worse.'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Bondage Net",
+			"theText": ["'This won't hold me for long!'",
+				"'D-Damn it, once I'm free, I'm REALLY going to fuck you senseless!"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Magical Binding",
+			"theText": ["'This won't hold me for long!'",
+				"'D-Damn it, once I'm free, I'm REALLY going to fuck you senseless!"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Finger",
+			"theText": ["'Mmm... Alright, enough foreplay. Let's get started, already!'",
+				"'Mmmnnn... let's just fuck already!'",
+				"'Ahhh...'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Dildo",
+			"theText": ["'It's just not the same...'",
+				"'If you're not careful, I'm going to break that.'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Arouse",
+			"theText": ["'MMM!♥ D-Damn magic!'",
+				"'Only way to get you to stop casting magic is if I fuck you 'till you can't think!'",
+				"'Great! Now I want to fuck even more!'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Arousara",
+			"theText": ["'MMM!♥ D-Damn magic!'",
+				"'Only way to get you to stop casting magic is if I fuck you 'till you can't think!'",
+				"'Great! Now I want to fuck even more!'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Electrify",
+			"theText": ["'EEEK! Are you trying to piss me off?!'",
+				"'Only way to get you to stop casting magic is if I fuck you till you can't think!'",
+				"'D-Dumb magic.'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Breast Caress",
+			"theText": ["She gasps and moans as you play with her breasts.",
+				"'Hahhh...♥'",
+				"'I-I wonder if I could cum from this...♥'",
+				"'Mmmm...♥ This is... Nice...'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Breast Massage",
+			"theText": ["She gasps and moans as you skillfully massage her breasts.",
+				"'Hahhh...♥ Mmmm...♥'",
+				"'T-There's no way this feels {i}this{/i} good...'",
+				"'Ahhh...♥ Khh, If I don't fuck you senseless soon...'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Suckle",
+			"theText": ["'WH- H-Hey! C-Cut that ouuuuuttt...♥'",
+				"'I-I'm not some cow for you to milk!' Her anger sputters out as she moans loudly.",
+				"'I-I'm not like those holstaurus p-pansies!'",
+				"She gasps and tightly presses her breast into your face.",
+				"'Ahhhh...♥ My mind... It's going numb...♥'",
+				"'M-Maybe I should get a potion so I can lactate...♥ GHK! D-Damn it, now you're making me think about weird shit!'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Breast Nuzzle",
+			"theText": ["'Mmmm...♥ This is... Nice...'",
+				"'H-Hey, cut that out! You're making me feel weird...'",
+				"'That's it, stay right there...♥'",
+				"The minotaur squeezes your face between her breasts while biting her lip."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Pinch Nipples",
+			"theText": ["'H-Hey, watch it! Those are sensitive!'",
+				"'EEK,♥ can't you do that a bit more gently?!'",
+				"'GHK... Grope, don't pinch!'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Penetrate",
+			"theText": ["'Oh? Think you're up to the challenge?'",
+				"'Think you can handle me, huh?'",
+				"'Heh, someone's eager to get fucked senseless."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Anal Penetration",
+			"theText": ["'Oh? Think you're up to the challenge?'",
+				"'Think you can handle me, huh?'",
+				"'Heh, someone's eager to get fucked senseless."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Thrust",
+			"theText": ["'Come on! Is that all?!'",
+				"'If you're going to thrust, do it harder!'",
+				"'Ahhh, more!'",
+				"'Hahhh...♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Pound",
+			"theText": ["'Fuck!♥ Yes!♥ That's it!♥'",
+				"'Come on!♥ Make me cum!'",
+				"'More!♥'",
+				"'Don't stop!♥",
+				"'Y-You're starting to make my head spin!♥ Keep going!♥'",
+				"'MMmph♥, heh, maybe you {i}can{/i} keep pace with me!♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Multi Thrust",
+			"theText": ["'Fuck!♥ Yes!♥ That's it!♥'",
+				"'Come on!♥ Make me cum!'",
+				"'More!♥'",
+				"'Don't stop!♥",
+				"'Y-You're starting to make my head spin!♥ Keep going!♥'",
+				"'MMmph♥, heh, maybe you {i}can{/i} keep pace with me!♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Empowered Thrust",
+			"theText": ["'Fuck!♥ Yes!♥ That's it!♥'",
+				"'Come on!♥ Make me cum!'",
+				"'More!♥'",
+				"'Don't stop!♥",
+				"'Y-You're starting to make my head spin!♥ Keep going!♥'",
+				"'MMmph♥, heh, maybe you {i}can{/i} keep pace with me!♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWithA",
+			"move": "Thrust",
+			"theText": ["'Come on! Is that all?!'",
+				"'If you're going to thrust, do it harder!'",
+				"'Ahhh, more!'",
+				"'Hahhh...♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWithA",
+			"move": "Pound",
+			"theText": ["'Fuck!♥ Yes!♥ That's it!♥'",
+				"'Come on!♥ Make me cum!'",
+				"'More!♥'",
+				"'Don't stop!♥",
+				"'Y-You're starting to make my head spin!♥ Keep going!♥'",
+				"'MMmph♥, heh, maybe you {i}can{/i} keep pace with me!♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWithA",
+			"move": "Multi Thrust",
+			"theText": ["'Fuck!♥ Yes!♥ That's it!♥'",
+				"'Come on!♥ Make me cum!'",
+				"'More!♥'",
+				"'Don't stop!♥",
+				"'Y-You're starting to make my head spin!♥ Keep going!♥'",
+				"'MMmph♥, heh, maybe you {i}can{/i} keep pace with me!♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWithA",
+			"move": "Empowered Thrust",
+			"theText": ["'Fuck!♥ Yes!♥ That's it!♥'",
+				"'Come on!♥ Make me cum!'",
+				"'More!♥'",
+				"'Don't stop!♥",
+				"'Y-You're starting to make my head spin!♥ Keep going!♥'",
+				"'MMmph♥, heh, maybe you {i}can{/i} keep pace with me!♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Charm",
+			"theText": ["'I-I really didn't need to be this aroused!'",
+				"'Ohhh...♥ You might regret that!♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Sleep",
+			"theText": ["'W-What kind of cheap trick is this...?'",
+				"'W-What?! Can't take me in a fair fight?!' She yawns loudly."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Seduce",
+			"theText": ["'Less talking, more fucking!'",
+				"'If you keep talking, I'm going to suffocate you with my tits.'",
+				"'Stop talking and fuck me already.'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Ear Tease",
+			"theText": ["'This is... weird.'",
+				"'I don't really get it...'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Handjob",
+			"theText": ["'Hmph, I suppose your cock will do.'",
+				"'Don't worry, I won't break your dick. Probably.'",
+				"'Let's get you ready for the ride of your life.'",
+				"'Let's give your dick a warm up.'",
+				"'Well your dick seems pretty sturdy...'",
+				"'So how long do you think you can go?'",
+				"'Hmm, is this enough foreplay?'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Grind",
+			"theText": ["'I'm hardly moving and I can feel your cock throbbing already.♥'",
+				"'I probably shouldn't take it {i}too{/i} easy on you.",
+				"'Hahhh,♥ I needed this!'",
+				"'You don't have to bother with moving your hips, just try and endure it!"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Bounce",
+			"theText": ["'Ahhh.♥ You won't be able to walk for a week after this!♥'",
+				"'We're just getting started!'",
+				"'Hmmm,♥ your cock's not too bad!♥'",
+				"'Heh, are your hips going numb from just this?'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Wild Ride",
+			"theText": ["'Your dick better not break!'",
+				"'I'm not stopping 'till I'm satisfied!'",
+				"'Hey! Try not to pass out!'",
+				"'Mmm!♥ This is the best!'",
+				"'Your cock's getting a good workout now!"
+			]
+		},
+		{
+			"lineTrigger": "usesMoveA",
+			"move": "Grind",
+			"theText": ["'I'm hardly moving and I can feel your cock throbbing already.♥'",
+				"'I probably shouldn't take it {i}too{/i} easy on you.",
+				"'Hahhh,♥ I needed this!'",
+				"'You don't have to bother with moving your hips, just try and endure it!"
+			]
+		},
+		{
+			"lineTrigger": "usesMoveA",
+			"move": "Bounce",
+			"theText": ["'Ahhh.♥ You won't be able to walk for a week after this!♥'",
+				"'We're just getting started!'",
+				"'Hmmm,♥ your cock's not too bad!♥'",
+				"'Heh, are your hips going numb from just this?'"
+			]
+		},
+		{
+			"lineTrigger": "usesMoveA",
+			"move": "Wild Ride",
+			"theText": ["'Your dick better not break!'",
+				"'I'm not stopping 'till I'm satisfied!'",
+				"'Hey! Try not to pass out!'",
+				"'Mmm!♥ This is the best!'",
+				"'Your cock's getting a good workout now!"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Minotaur Mating Pin",
+			"theText": ["'Here we go!'",
+				"'Let's get started!'",
+				"'Get comfortable!'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Breast Smother",
+			"theText": ["'Want a closer look at my breasts?'",
+				"'Let's get you comfortable!",
+				"'Try not to pass out between my tits!♥'",
+				"'Don't even think of trying to get away!"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Breast Smothering",
+			"theText": ["'Hehe, you look pretty cute like this.'",
+				"'Don't worry, I'm just going to fuck you senseless!♥'",
+				"'Feel free to hold onto me, you might need to.♥'",
+				"'Mmmm...♥'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Breast Suffocation",
+			"theText": ["'Enjoying getting choked by my breasts?♥'",
+				"'Hey, your body's getting slack.♥'",
+				"'Did you really think you could fight back?'",
+				"'Enjoying yourself?♥'"
+			]
+		},
+		{
+			"lineTrigger": "LowHealth",
+			"move": "",
+			"theText": ["'MMMMMmmm...♥ Ah? A-Are you actually going to make me cum?'",
+				"'Ahhhh?!♥ Y-You're better at this than I thought...",
+				"'MMMmmmhhhhh!♥ C-Crap, it's getting hard to think straight...",
+				"'Hahhhh♥ Ghh...♥ I'm going to show you who's really in charge here!"
+			]
+		},
+		{
+			"lineTrigger": "PlayerLowHealth",
+			"move": "",
+			"theText": ["'Hm? Gonna cum? Hurry up then, you should last longer in the next round.'",
+				"'Ha, that was a cute moan you let out!♪'",
+				"'Even if you cum, I'm not going to stop!",
+				"'I wonder how many rounds you're good for...?'",
+				"'Hey, don't cum yet! This is just starting to get good!♥'"
+			]
+		},
+		{
+			"lineTrigger": "OnPlayerOrgasm",
+			"move": "Sex",
+			"theText": ["The minotaur relentlessly rides your manhood, and a pleasurable numbness spreads outwards from your groin. You gasp and moan, unable to focus enough to fight back for the moment, and the pleasure in your cock peaks as she slams her hips down definitively, sending cascades of ecstasy through you as you fill her with semen.",
+				"You grit your teeth and try to endure the pleasure of the minotaur bouncing on your shaft, but as soon as she speeds up, frantically fucking your manhood, you lose your focus. Moaning in pleasure, you cum inside her tight pussy while she continues to ride your shaft for the duration of your orgasm, making you twitch and spasm with overstimulation.",
+				"As the minotaur rides your shaft, she tightly squeezes your face between her heavy breasts. Every bounce of her hips makes her soft chest jiggle around your head, filling your mind with tingling pleasure. As you get short of breath gasping and moaning, she starts fucking your shaft harder and faster until your entire being is electrified with pleasure, forcing you to cum inside her tight pussy.",
+				"You feel yourself rapidly approaching orgasm as the minotaur wildly rides your shaft, but right before you climax she slows down, letting you catch your breath. She gently intertwines her hands with yours while slowly grinding her hips against yours, gradually bringing you back to the brink of orgasm before roughly slamming her hips into yours, making you spurt your load into her."
+			]
+		},
+		{
+			"lineTrigger": "OnPlayerOrgasm",
+			"move": "Anal",
+			"theText": ["The minotaur relentlessly rides your manhood, and a pleasurable numbness spreads outwards from your groin. You gasp and moan, unable to focus enough to fight back for the moment, and the pleasure in your cock peaks as she slams her hips down definitively, sending cascades of ecstasy through you as you fill her with semen.",
+				"You grit your teeth and try to endure the pleasure of the minotaur bouncing on your shaft, but as soon as she speeds up, frantically fucking your manhood, you lose your focus. Moaning in pleasure, you cum inside her tight ass while she continues to ride your shaft for the duration of your orgasm, making you twitch and spasm with overstimulation.",
+				"As the minotaur rides your shaft, she tightly squeezes your face between her heavy breasts. Every bounce of her hips makes her soft chest jiggle around your head, filling your mind with tingling pleasure. As you get short of breath gasping and moaning, she starts fucking your shaft harder and faster until your entire being is electrified with pleasure, forcing you to cum inside her tight ass.",
+				"You feel yourself rapidly approaching orgasm as the minotaur wildly rides your shaft, but right before you climax she slows down, letting you catch your breath. She gently intertwines her hands with yours while slowly grinding her hips against yours, gradually bringing you back to the brink of orgasm before roughly slamming her hips into yours, making you spurt your load into her."
+			]
+		},
+		{
+			"lineTrigger": "OnPlayerOrgasm",
+			"move": "Breast Smother",
+			"theText": ["With your face buried between the minotaur's soft cleavage, you find yourself short of breath, causing every stroke she makes on your rigid manhood to feel more intense than the last. Unable to take the pleasure anymore, you moan into her breasts as you spurt out your load onto the ground.",
+				"Already so close to the minotaur from having your face between her bountiful breasts, she easily pulls you closer before she starts to grind her wet pussy and toned thighs against your manhood. Already teetering on the brink of orgasm, it doesn't take long for your shaft to erupt into blissful ecstasy.",
+				"The minotaur tightly squeezes your head between her warm chest, and you do your best to gasp for air, but as she pushes your face even deeper between her soft breasts, the only thing you can breath in is the strong feminine scent of her bosom. She gives your head one last tight squeeze between her full tits and your vision swims with colors as your cock throbs and twitches its way to orgasm."
+			]
+		},
+		{
+			"lineTrigger": "OnPlayerOrgasm",
+			"move": "",
+			"theText": ["The minotaur roughly strokes your shaft, and with one last powerful tug you can take no more and cum all over her hand. 'You better not be tired from just that.'",
+				"You gasp and moan as the minotaur milks your cock with a firm hand, orgasmic pleasure overwhelming your groin as you ejaculate. The minotaur gives you a smug smile and keeps stroking your shaft as you cum, making you spurt out a few extra loads onto her hand."
+			]
+		},
+		{
+			"lineTrigger": "OnOrgasm",
+			"move": "",
+			"theText": ["'YEESSSSS!♥♥♥ Ahhh...♥ Hahhhh...♥ Y-You actually satisfied me.♥'",
+				"'AAAAAHHHHHHH!♥♥♥ Mmmmmmm...♥ Y-You're a lot better at this than you look.♥'",
+				"'MMMMMMMMMMHHHH♥♥♥ Hahhhh...♥ Hahhhh...♥ I-I wanna go again...♥ But I'm so tired now...",
+				"'EEEEEE!♥♥♥ Ahhh,♥ hahhh...♥ Y-You really took charge of that.♥'"
+			]
+		},
+		{
+			"lineTrigger": "OnSurrender",
+			"move": "",
+			"theText": ["'I hope your dick is ready for this!♥",
+				"'Smart move! I'll try to be gentle.'",
+				"'Huh, you're giving up? Hehe, maybe you should have run for your pelvis' sake.'",
+				"'You know I'm not going to let you go until I'm satisfied, right? Well do your best to endure this!'"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggle",
+			"move": "Sex",
+			"theText": ["{ThePlayerName} tries to pull out of {AttackerName}'s tight pussy..."]
+		},
+		{
+			"lineTrigger": "StanceStruggleFail",
+			"move": "Sex",
+			"theText": ["But she brutally slams her hips into yours, briefly knocking the resistance out of you!",
+				"But your body can't do anything but twitch in delight as {AttackerName} rides your aching shaft!",
+				"But {AttackerName} roughly pins you to the ground and starts to suffocate you with her huge tits, forcing you to try and get air over freeing your shaft.",
+				"But you find your body too numb with aching pleasure and exhaustion from {AttackerName} riding your length wildly to try and get her to stop."
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleComment",
+			"move": "Sex",
+			"theText": ["",
+				"'Keep trying to resist if you want, your cock's going to be sore either way.'",
+				"'Nice try, but you're not going anywhere!'",
+				"'Don't be so scared, I'll stop before I break your dick.'",
+				"'Stop struggling and fuck me!"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFree",
+			"move": "Sex",
+			"theText": [
+				"And free yourself from {AttackerName}'s rough lovemaking!"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFreeComment",
+			"move": "Sex",
+			"theText": ["'H-Hey, get back here! I haven't gotten off yet!'",
+				"'Guess I'll need to fuck you harder next time.'",
+				"'Do I need to get rough with you?!'",
+				"'Maybe I should smother you senseless with my tits first...'"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggle",
+			"move": "Anal",
+			"theText": ["{ThePlayerName} tries to pull out of {AttackerName}'s tight ass..."]
+		},
+		{
+			"lineTrigger": "StanceStruggleFail",
+			"move": "Anal",
+			"theText": ["But she brutally slams her hips into yours, briefly knocking the resistance out of you!",
+				"But your body can't do anything but twitch in delight as {AttackerName} rides your aching shaft!",
+				"But {AttackerName} roughly pins you to the ground and starts to suffocate you with her huge tits, forcing you to try and get air over freeing your shaft.",
+				"But you find your body too numb with aching pleasure and exhaustion from {AttackerName} riding your length wildly to try and get her to stop."
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleComment",
+			"move": "Anal",
+			"theText": ["",
+				"'Keep trying to resist if you want, your cock's going to be sore either way.'",
+				"'Nice try, but you're not going anywhere!'",
+				"'Don't be so scared, I'll stop before I break your dick.'",
+				"'Stop struggling and fuck me!"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFree",
+			"move": "Anal",
+			"theText": ["And manage to pull your cock out of her fine rear!"]
+		},
+		{
+			"lineTrigger": "StanceStruggleFreeComment",
+			"move": "Anal",
+			"theText": ["'H-Hey, get back here! I haven't gotten off yet!'",
+				"'Guess I'll need to fuck you harder next time.'",
+				"'Do I need to get rough with you?!'",
+				"'Maybe I should smother you senseless with my tits first...'"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggle",
+			"move": "Breast Smother",
+			"theText": ["{ThePlayerName} tries to pull {TargetHisOrHer} face free from {AttackerName}'s heavy breasts...",
+				"{ThePlayerName} tries to push away from {AttackerName}'s soft cleavage..."
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFail",
+			"move": "Breast Smother",
+			"theText": ["But she firmly holds the back of your head with her strong arms and pulls your face back between her big tits!",
+				"Grabbing {AttackerName}'s large chest to push away, your hands merely sink into her soft flesh and make her tits jiggle around your head.",
+				"But her strong arms are tightly wrapped around the back of your head, keeping your face buried between her massive bosom.",
+				"But as you start to pull away, {AttackerName} squeezes her soft tits tightly around your head, keeping your face trapped in her soft cleavage and leaving you short of breath."
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleComment",
+			"move": "Breast Smother",
+			"theText": ["'Nice try, but you're not going anywhere.'",
+				"'Aww, are you trying to fight back? It's kind of adorable.'",
+				"'Getting hard to breath? Make me cum, and you'll be free to get some fresh air.'",
+				"'You won't be able to get the smell of my tits out of your head for weeks.♥'",
+				"'H-Hey, stop struggling so much, my breasts are a bit sensitive.'"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFree",
+			"move": "Breast Smother",
+			"theText": ["And manage to free your face from {AttackerName}'s soft rack!"]
+		},
+		{
+			"lineTrigger": "StanceStruggleFreeComment",
+			"move": "Breast Smother",
+			"theText": ["'Guess I'll need to fuck you senseless then.'",
+				"'Geez, you should have been grateful for that.'",
+				"'Hmm, maybe I shouldn't have let you breathe after all.",
+				"'Get back here!'"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggle",
+			"move": "Making Out",
+			"theText": ["{ThePlayerName} tries to pull away from {AttackerName}'s lips..."]
+		},
+		{
+			"lineTrigger": "StanceStruggleFail",
+			"move": "Making Out",
+			"theText": ["But she keeps her arms wrapped around the back of {ThePlayerName}'s neck, keeping {TargetHimOrHer} in a rough make out session!"]
+		},
+		{
+			"lineTrigger": "StanceStruggleComment",
+			"move": "Making Out",
+			"theText": ["",
+				"'Mmmm, you started this.'",
+				"'Dumb romantic idiot...'",
+				"'Kissing and fucking at the same time might be fun...'"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFree",
+			"move": "Making Out",
+			"theText": ["And manage to pull free from {AttackerName}'s mouth!"]
+		},
+		{
+			"lineTrigger": "StanceStruggleFreeComment",
+			"move": "Making Out",
+			"theText": ["'Guess I can shove your face between my tits now.'",
+				"'Eh, that was boring anyways.'",
+				"'Huh?!'",
+				""
+			]
+		}
+	],
+	"victoryScenes": [{ "NameOfScene": "",
+		"move": "",
+		"stance": "",
+		"includes": [""],
+		"theScene": [""],
+		"picture": ""
+	}],
+	"pictures": [
+		{ "Name": "Body",
+			"StartOn": "1",
+			"AlwaysOn": "1",
+			"IsScene": "0",
+			"TheBody": "1",
+			"Overlay": "No",
+			"setXalign": "0.0",
+			"setYalign": "0.075",
+			"Images": [
+        { "Name": "Base",
+          "File": "Monsters/Minoni/body_Minoni_Base.png",
+          "setXalign": "0.0",
+          "setYalign": "0.0"
+        }
+      ]
+		},
+		{ "Name": "ArmR",
+			"StartOn": "1",
+			"AlwaysOn": "1",
+			"IsScene": "0",
+			"TheBody": "0",
+			"Overlay": "No",
+			"setXalign": "0.0",
+			"setYalign": "0.0",
+			"Images": [
+        { "Name": "Base",
+					"File": "Monsters/Minoni/ArmR_Base.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Flex",
+					"File": "Monsters/Minoni/ArmR_Wrestle.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				}
+			]
+		},
+		{ "Name": "Base",
+			"StartOn": "1",
+			"AlwaysOn": "1",
+			"IsScene": "0",
+			"TheBody": "0",
+			"Overlay": "No",
+			"setXalign": "0.0",
+			"setYalign": "0.0",
+			"Images": [
+        { "Name": "Base",
+					"File": "minoniDress",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Nude",
+					"File": "minoniBoobs",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				}
+			]
+		},
+		{ "Name": "Face",
+			"StartOn": "0",
+			"AlwaysOn": "0",
+			"IsScene": "0",
+			"TheBody": "0",
+			"Overlay": "No",
+			"setXalign": "0.0",
+			"setYalign": "0.0",
+			"Images": [
+        { "Name": "Blush",
+					"File": "Monsters/Minoni/Face_Minoni_Blush.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "BlushDeep",
+					"File": "Monsters/Minoni/Face_Minoni_BlushDeep.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				}
+			]
+		},
+		{ "Name": "ArmL",
+			"StartOn": "1",
+			"AlwaysOn": "1",
+			"IsScene": "0",
+			"TheBody": "0",
+			"Overlay": "No",
+			"setXalign": "0.0",
+			"setYalign": "0.0",
+			"Images": [
+        { "Name": "Base",
+					"File": "Monsters/Minoni/ArmL_Base.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "BaseBook",
+					"File": "Monsters/Minoni/ArmL_BaseBook.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Reading",
+					"File": "Monsters/Minoni/ArmL_Read.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Wrestle",
+					"File": "Monsters/Minoni/ArmL_Wrestle.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				}
+			]
+		},
+		{ "Name": "BookOnHip",
+			"StartOn": "0",
+			"AlwaysOn": "0",
+			"IsScene": "0",
+			"TheBody": "0",
+			"Overlay": "No",
+			"setXalign": "0.0",
+			"setYalign": "0.0",
+			"Images": [
+        { "Name": "BookOnHip",
+          "File": "Monsters/Minoni/extra_minoni_book.png",
+          "setXalign": "0.0",
+          "setYalign": "0.0"
+        }
+      ]
+		},
+		{ "Name": "Expression",
+			"StartOn": "1",
+			"AlwaysOn": "1",
+			"IsScene": "0",
+			"TheBody": "0",
+			"Overlay": "No",
+			"setXalign": "0.0",
+			"setYalign": "0.0",
+			"Images": [
+        { "Name": "Base",
+					"File": "Monsters/Minoni/Expression_Minoni_Base.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Angry",
+					"File": "Monsters/Minoni/Expression_Minoni_Angry.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Awawa",
+					"File": "Monsters/Minoni/Expression_Minoni_Awawa.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Cocky",
+					"File": "Monsters/Minoni/Expression_Minoni_Cocky.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Dominant",
+					"File": "Monsters/Minoni/Expression_Minoni_Dominant.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Embarrassed",
+					"File": "Monsters/Minoni/Expression_Minoni_Embarrassed.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Frustrated",
+					"File": "Monsters/Minoni/Expression_Minoni_Frustrated.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "HappyClosed",
+					"File": "Monsters/Minoni/Expression_Minoni_HappyClosed.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Horny",
+					"File": "Monsters/Minoni/Expression_Minoni_Horny.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "HornyDaze",
+					"File": "Monsters/Minoni/Expression_Minoni_HornyDaze.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Loving",
+					"File": "Monsters/Minoni/Expression_Minoni_Loving.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Pleasured",
+					"File": "Monsters/Minoni/Expression_Minoni_Pleasured.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Pout",
+					"File": "Monsters/Minoni/Expression_Minoni_Pout.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Serious",
+					"File": "Monsters/Minoni/Expression_Minoni_Serious.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Shy",
+					"File": "Monsters/Minoni/Expression_Minoni_Shy.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Smile",
+					"File": "Monsters/Minoni/Expression_Minoni_Smile.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Sparkling",
+					"File": "Monsters/Minoni/Expression_Minoni_Sparkling.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Stumbling",
+					"File": "Monsters/Minoni/Expression_Minoni_Stumbling.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{ "Name": "Stunned",
+					"File": "Monsters/Minoni/Expression_Minoni_Stunned.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				}
+			]
+		},
+		{ "Name": "ExpressionBlushCoverThing",
+			"StartOn": "0",
+			"AlwaysOn": "0",
+			"IsScene": "0",
+			"TheBody": "0",
+			"Overlay": "No",
+			"setXalign": "0.0",
+			"setYalign": "0.0",
+			"Images": [
+        { "Name": "Base",
+          "File": "Monsters/Minoni/Face_Minoni_ExpressionCover.png",
+          "setXalign": "0.0",
+          "setYalign": "0.0"
+        }
+      ]
+		}
+	]
+}

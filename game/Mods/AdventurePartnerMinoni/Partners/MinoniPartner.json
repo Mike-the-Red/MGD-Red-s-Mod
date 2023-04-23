@@ -1,0 +1,40 @@
+{
+  "IDname": ["Minoni", "Minoni_Level_12", "Minoni_Level_30"],
+  "flipImage": "True",
+  "cropImage": ["171","128","459","693"],
+  "positionImage": ["56","55"],
+  "tooltipDesc": "A tall, muscular minotaur woman with tanned skin; short red hair; striking red eyes; and horns covered in strips of paper with strange markings.\n\nShe wears a red and gold kimono and often carries a gourd canteen and a book.",
+  "advancementPerk": [],
+  "pesterScenes": [
+    { "NameOfScene": "Minoni Pestered",
+      "move": "",
+      "stance": "",
+      "includes": ["Minoni_Level_12"],
+      "picture": "",
+      "theScene": [
+        "Log", "Scene 'Minoni Pestered' begun.",
+        "CallLabel", "minoniPesterOne"
+      ]
+    }
+  ],
+  "casualPoses": [
+    [
+      ["Smile","Expression"],
+      ["Base","ArmL"],
+      ["BookOnHip","BookOnHip"]
+    ],
+    [
+      ["Smile","Expression"],
+      ["BaseBook","ArmL"],
+      ["","BookOnHip"]
+    ]
+  ],
+  "combatPoses": [
+    [
+      ["Angry","Expression"],
+      ["Wrestle","ArmR"],
+      ["Wrestle","ArmL"],
+      ["BookOnHip","BookOnHip"]
+    ]
+  ]
+}
